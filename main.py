@@ -9,7 +9,7 @@ game = Game ()
 game_layer = Layer()
 game.add (game_layer) # ajoute la layer au game
 
-spaceship = Spaceship ((400,300))
+spaceship = Spaceship ((600,300))
 
 asteroid32 = Asteroid ()
 
